@@ -1,0 +1,4 @@
+#python 2.7.15
+a=input("enter the lenght of side of square.  ")
+per=4*a
+print("perimeter is" , per)
